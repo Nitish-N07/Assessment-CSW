@@ -24,5 +24,6 @@ Part B
 
 <img src="https://github.com/Nitish-N07/Assessment-CSW/blob/main/output-part2.jpg" width="500">
 
+To gain insights into the problem statement and solution logic, explore the Docx file located in this repository.
                                                                                                 
                                                                                                 
