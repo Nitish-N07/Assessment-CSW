@@ -15,7 +15,10 @@
 ## The Doomed Dice Challenge
 
 ### Output ScreenShots
-![alt text](https://github.com/Nitish-N07/Assessment-CSW/blob/main/output-part1.jpg | width = 100)
-![alt text](https://github.com/Nitish-N07/Assessment-CSW/blob/main/output-part2.jpg | width = 100)
+Part A
+<img src="https://github.com/Nitish-N07/Assessment-CSW/blob/main/output-part1.jpg" width="100">
+Part B
+<img src="https://github.com/Nitish-N07/Assessment-CSW/blob/main/output-part2.jpg" width="100">
+
                                                                                                 
                                                                                                 
