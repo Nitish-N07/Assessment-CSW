@@ -12,9 +12,9 @@
            :~!777!^.       .~7?7!^.      .^!7?7~.      .^!77!^.   .~~^      :~~^  ~~~.     ^~^      
                                                                                                     
                                                                                                     
-#### The Doomed Dice Challenge
+## The Doomed Dice Challenge
 
-##### Output ScreenShots
+### Output ScreenShots
 ![alt text](https://github.com/Nitish-N07/Assessment-CSW/blob/main/output-part1.jpg)
 ![alt text](https://github.com/Nitish-N07/Assessment-CSW/blob/main/output-part2.jpg)
                                                                                                 
